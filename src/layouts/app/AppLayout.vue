@@ -1,7 +1,10 @@
 <template>
-    <AppView />
-</template>
-
-<script setup>
-import AppView from './AppView.vue';
-</script>
+    <AppBar />
+    <v-main>
+      <router-view />
+    </v-main>
+  </template>
+  
+  <script setup>
+  import AppBar from '../../components/AppBar.vue';
+  </script>

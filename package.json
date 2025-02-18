@@ -26,6 +26,6 @@
     "vite": "^6.0.5",
     "vite-plugin-vue-devtools": "^7.6.8",
     "vite-plugin-vuetify": "^2.0.4",
-    "vuetify": "^3.7.6"
+    "vuetify": "^3.7.12"
   }
 }
